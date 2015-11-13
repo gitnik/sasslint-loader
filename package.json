@@ -1,5 +1,5 @@
 {
-  "name": "sasslint-loader",
+  "name": "temp-sasslint-loader",
   "version": "0.0.1",
   "description": "sass lint loader for webpack",
   "main": "index.js",
